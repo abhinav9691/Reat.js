@@ -1,1 +1,1 @@
-# Reat.js
+# React.js
